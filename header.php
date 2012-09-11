@@ -40,6 +40,9 @@
 				<li class="<?php echo ($page_name=='about.php')?'active':'';?>"><a href="about">About</a></li>
 				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact">Contact</a></li>
 		  </ul>
+		  <ul class="nav pull-right">
+				<li><a href="hireme"><strong><i class="icon icon-info-circle-2"></i> Status:</strong> Available for work</a></li>
+			</ul>
 		</div>
 	</div>
 	</div>
