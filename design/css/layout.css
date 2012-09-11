@@ -1,6 +1,9 @@
 /* Andrew Chin eats rainbows for breakfast */
 
 
+/* bootstrap hacks */
+body{padding-top: 60px;}
+
 /* first some universal things */
 /* ______________________________________________________________________*/
 
@@ -8,28 +11,3 @@
 .icon{background-image:none !important;} /* remove bootstrap icons */
 
 
-/* typography */
-
-h1, h2, h3{font-family: "proxima-nova-alt",sans-serif;}
-p, a{font-family: "open-sans",sans-serif;}
-
-h1{font-size:24px;}
-p{font-size:14px; color:#2a2a2a;}
-
-
-.body{position: relative; background:#eee;}
-
-
-/* menu */
-/* ______________________________________________________________________*/
-
-.menu{width:160px; border-right: 1px solid #ddd; position: absolute; left:0; top:0;}
-.menu .logo a{display:block; width:100%; border-bottom:1px solid #ddd; padding:20px 0;}
-.menu .m1 li a{display:block; padding:10px; border-bottom:1px solid #ddd;}
-
-
-/* header */
-/* ______________________________________________________________________*/
-.content{margin-left: 160px;}
-.container{margin-left:0}
-.content header{height:59px; background-color:#09f;}
