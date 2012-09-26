@@ -25,6 +25,6 @@ a:hover{color:#f51a1a;}
 
 /* customising the navbar */
 .navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95);}
-.navbar-inner .brand{padding:40px 20px;}
+.navbar-inner .brand{padding:40px 40px;}
 .navbar-inner .nav li a{padding:40px 40px;}
 .navbar-inner .nav .active a:focus{background-color:#09f;}
