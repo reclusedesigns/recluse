@@ -4,7 +4,7 @@ jQuery(document).ready(function($) {
 	$('.carousel').carousel('pause');
 
 	
-	$('.tooltip_js').tooltip();
+	$('.js_tooltip').tooltip();
 	
 	$('.scrollto_js').click(function(e) {
 		e.preventDefault();

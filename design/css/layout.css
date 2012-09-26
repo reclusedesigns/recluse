@@ -2,10 +2,29 @@
 
 
 /* bootstrap hacks */
-body{padding-top: 60px;}
+body{padding-top: 100px;}
 
 /* first some universal things */
 /* ______________________________________________________________________*/
 
 /* hacks */
 .icon{background-image:none !important;} /* remove bootstrap icons */
+
+
+
+
+/* typography */
+/* ______________________________________________________________________*/
+
+h1, h2, h3, h4, h5, h6, p{color:#999; font-weight:normal;}
+
+h2{font-weight:100; text-transform: uppercase;}
+
+a{color:#f51a1a;}
+a:hover{color:#f51a1a;}
+
+/* customising the navbar */
+.navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95);}
+.navbar-inner .brand{padding:40px 20px;}
+.navbar-inner .nav li a{padding:40px 40px;}
+.navbar-inner .nav .active a:focus{background-color:#09f;}

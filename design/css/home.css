@@ -1,0 +1,8 @@
+
+
+/* hero */
+.hero{background:url(../images/hero/recluse_3d_web.jpg) top center no-repeat; height: 650px;}
+
+.hero .intro{padding-top:300px;}
+.hero .intro p{font-size:18px; line-height: 28px;}
+.hero h2 span{background-color:#999; color:#fff;}
