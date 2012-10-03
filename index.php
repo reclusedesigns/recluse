@@ -15,12 +15,22 @@
 		</div> <!-- /container -->
 	</div>
 	
-	<div class="about">
+	<div class="testimonials">
 		<div class="container">
 			<hr>
+				<ul class="unstyled">
+					<li>"Andrew was great, he was really full of good" - Smart Dude</li>
+					<li>"Oh wow, I can't believe how good his good was" - Client</li>
+				</ul>
+			<hr>
+		</div>
+	</div>
+	
+	<div class="about">
+		<div class="container">
 			<div class="row">
 				<div class="span6">
-					<p>Do the carousels</p>
+					<!-- carousel -->
 				</div>
 				<div class="span6">
 					<div class="about">

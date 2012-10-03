@@ -1,12 +1,10 @@
-
-<div class="container">
-	<footer>
-		<hr>
+<footer>
+	<div class="container">
 		<a href="#">Dribbble</a>
 		<a href="#">Facebook</a>
 		<a href="#">Twitter</a>
-	</footer>
-</div>
+	</div>
+</footer>
 
 
 

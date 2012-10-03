@@ -29,7 +29,7 @@ a:hover{color:#f51a1a;}
 
 
 
-
+/* header */
 /* ______________________________________________________________________*/
 .navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95);}
 .navbar-inner .brand{padding:40px 20px;}
@@ -41,7 +41,7 @@ a:hover{color:#f51a1a;}
 
 
 
-/* pattern application */
+/* footer */
 /* ______________________________________________________________________*/
-
-
+footer{padding:40px 0 80px; margin-top:40px; background-color:rgba(0,0,0,0.8); text-align: center;}
+footer a{padding:0 10px; color:#999;}
