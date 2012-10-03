@@ -43,9 +43,9 @@
 -->
 			<ul class="nav pull-right">
 			<?php $full_name = $_SERVER['PHP_SELF']; $name_array = explode('/',$full_name); $count = count($name_array); $page_name = $name_array[$count-1];?>
-				<li class="<?php echo ($page_name=='about.php')?'active':'';?>"><a href="about"><i class="icon icon-feather"></i></a></li>
-				<li class="<?php echo ($page_name=='method.php')?'active':'';?>"><a href="method"><i class="icon icon-cog-2"></i> </a></li>
-				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact"><i class="icon icon-mail-2"></i> </a></li>
+				<li class="<?php echo ($page_name=='about.php')?'active':'';?>"><a href="about.php"><i class="icon icon-feather"></i></a></li>
+				<li class="<?php echo ($page_name=='method.php')?'active':'';?>"><a href="method.php"><i class="icon icon-cog-2"></i> </a></li>
+				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2"></i> </a></li>
 		  </ul>
 		</div>
 	</div>
