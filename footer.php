@@ -1,8 +1,8 @@
 <footer>
 	<div class="container">
-		<a href="#">Dribbble</a>
-		<a href="#">Facebook</a>
-		<a href="#">Twitter</a>
+		<a href="http://dribbble.com/recluse" target="_blank">Dribbble</a>
+		<a href="https://www.facebook.com/reclusedesigns target="_blank"">Facebook</a>
+		<a href="https://twitter.com/reclusedesigns" target="_blank">Twitter</a>
 	</div>
 </footer>
 
