@@ -35,7 +35,7 @@
 <div class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
-			<a class="brand" href="index">Recluse</a>
+			<a class="brand" href="index.php">Recluse</a>
 		  <!--
 <ul class="nav">
 				<li><a href="hireme"><strong><i class="icon icon-info-circle-2"></i> Status:</strong> Available for work</a></li>
