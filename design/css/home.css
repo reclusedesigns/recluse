@@ -1,7 +1,9 @@
 
 
 /* hero */
-.hero{background:url(../images/hero/recluse_3d_web.jpg) top center no-repeat; height: 600px;}
+.hero{background:url(../images/hero/recluse_3d_web.jpg) top center no-repeat; height: 600px; margin-bottom:60px;}
 .hero .intro{padding-top:330px;}
 
-.trust{}
+
+.trust{padding-bottom:60px;}
+.trust .recent_work{padding-top:17px;}

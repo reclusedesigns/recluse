@@ -1,6 +1,14 @@
 jQuery(document).ready(function($) {
 	
 	
+	$(".bw").hover(
+		function() {
+		$(this).stop().animate({"opacity": "0"}, "fast");
+		},
+		function() {
+		$(this).stop().animate({"opacity": "1"}, "fast");
+	});
+	
 	$('.carousel').carousel('pause');
 
 	

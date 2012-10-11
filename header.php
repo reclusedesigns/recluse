@@ -22,7 +22,7 @@
 	<script src="design/vendor/ultotop/js/easing.js" type="text/javascript"></script>
 	<script src="design/vendor/ultotop/js/jquery.ui.totop.js" type="text/javascript"></script>
 	<script src="design/vendor/nivo-slider/jquery.nivo.slider.js" type="text/javascript" charset="utf-8"></script>
-<!-- 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script> -->
+	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- typekit! -->
 	<script type="text/javascript" src="//use.typekit.net/xfk3ysb.js"></script>

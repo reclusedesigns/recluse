@@ -33,14 +33,22 @@
 			<div class="row">
 				<div class="span8">
 					
-					<p>Recent work</p>
 					<div class="row">
-						
-						<div class="span4">
-							<a href="#"><img src="http://placekitten.com/300/200"></a>
-						</div>
-						<div class="span4">
-							<a href="#"><img src="http://placekitten.com/300/200"></a>
+						<div class="recent_work">
+							<div class="span4">
+								<div class="fadehover">
+									<p style="z-index:200;">Lol</p>
+									<a href="#"><img src="design/images/body/circle_bw.jpg" class="bw"></a>
+									<a href="#"><img src="design/images/body/circle.jpg" class="c"></a>
+								</div>
+							</div>
+							
+							<div class="span4">
+								<div class="fadehover">
+									<a href="#"><img src="design/images/body/circle_bw.jpg" class="bw"></a>
+									<a href="#"><img src="design/images/body/circle.jpg" class="c"></a>
+								</div>
+							</div> <!-- span8 -->
 						</div>
 					</div>
 				</div>
@@ -49,6 +57,7 @@
 					<div class="about">
 						<h2><span>The internet</span></h2>
 						<p>Don't freak out - it's not that scary. I've been doing this for a while now and I'd love to help make things clearer.</p>
+						<p>Have a look at some of<a href="#"> my work</a></p>
 						<p>
 					</div>
 				</div>

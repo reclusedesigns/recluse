@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, p{color:#999; font-weight:normal;}
 h2{font-weight:100; text-transform: uppercase; font-size:20px;}
 h2 span{background-color:rgba(0,0,0,0.7); color:#fff; padding:0 3px;}
 
-p{font-size:13px; line-height: 22px;}
+p{font-size:13px; line-height: 22px; color:#666;}
 a{color:#f51a1a;}
 a:hover{color:#f51a1a;}
 
@@ -31,17 +31,26 @@ a:hover{color:#f51a1a;}
 
 /* header */
 /* ______________________________________________________________________*/
-.navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95);}
+.navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95); box-shadow: none !important; border-bottom:1px solid #ddd;}
 .navbar-inner .brand{padding:40px 20px;}
 .navbar-inner .nav li a{padding:40px 40px; color:#bbb}
 .navbar-inner .nav li a:hover{color:#f51a1a;}
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus{color:#f51a1a; background-color:#f6f6f6;} /* active class */
 
 
+/* an image */
+/*
+img{opacity: 0.8; display:block; height:140px; transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out;}
+img:hover{opacity: 1;}
+*/
+
+.trust .fadehover{position: relative;}
+.bw{position: absolute; left: 0; top: 0; z-index: 10;}
+.c{position: absolute; left: 0; top: 0;}
 
 
 
 /* footer */
 /* ______________________________________________________________________*/
-footer{padding:40px 0 80px; margin-top:40px; background-color:rgba(0,0,0,0.8); text-align: center;}
+footer{margin-top:40px; padding-bottom:80px; text-align: center;}
 footer a{padding:0 10px; color:#999;}
