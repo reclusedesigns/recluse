@@ -33,7 +33,7 @@ a:hover{color:#f51a1a;}
 /* ______________________________________________________________________*/
 .navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95); box-shadow: none !important; border-bottom:1px solid #ddd;}
 .navbar-inner .brand{padding:40px 20px;}
-.navbar-inner .nav li a{padding:40px 40px; color:#bbb}
+.navbar-inner .nav li a{padding:40px 40px; color:#bbb;}
 .navbar-inner .nav li a:hover{color:#f51a1a;}
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus{color:#f51a1a; background-color:#f6f6f6;} /* active class */
 
@@ -41,7 +41,7 @@ a:hover{color:#f51a1a;}
 
 /* javascript image fade */
 /* ______________________________________________________________________*/
-.fadehover{position: relative;}
+.fadehover{position: relative; height:140px;}
 .bw{position: absolute; left: 0; top: 0; z-index: 10;}
 .c{position: absolute; left: 0; top: 0;}
 

@@ -13,6 +13,7 @@
 	<!-- muay styles -->
 	<link rel="stylesheet" href="design/css/layout.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/css/home.css" type="text/css" media="screen" charset="utf-8">
+		<link rel="stylesheet" href="design/css/work.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/ultotop/css/ui.totop.css" type="text/css" media="screen" />
 	
 	<!-- the javascriptage -->
@@ -43,7 +44,7 @@
 -->
 			<ul class="nav pull-right">
 			<?php $full_name = $_SERVER['PHP_SELF']; $name_array = explode('/',$full_name); $count = count($name_array); $page_name = $name_array[$count-1];?>
-				<li class="<?php echo ($page_name=='about.php')?'active':'';?>"><a href="about.php"><i class="icon icon-feather"></i></a></li>
+				<li class="<?php echo ($page_name=='work.php')?'active':'';?>"><a href="work.php"><i class="icon icon-feather"></i></a></li>
 				<li class="<?php echo ($page_name=='method.php')?'active':'';?>"><a href="method.php"><i class="icon icon-cog-2"></i> </a></li>
 				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2"></i> </a></li>
 		  </ul>
