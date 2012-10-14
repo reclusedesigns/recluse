@@ -2,13 +2,18 @@
 
 <section class="work">
 	<div class="container">
-		<p>Harro, I'm about</p>
-		<div class="row">
 		
+		<div class="intro">
+			<h2><span>This a my house - entry, please.</span></h2>
+		</div>
+		
+		<hr>
+		
+		<div class="row">
+			
 			<div class="span4">
 				<div class="fadehover">
-					<p style="z-index:200;">Lol</p>
-					<a href="#">
+					<a href="item.php">
 						<img src="design/images/body/circle_bw.jpg" class="bw">
 						<img src="design/images/body/circle.jpg" class="c">
 					</a>

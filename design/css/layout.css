@@ -10,7 +10,8 @@ body{padding-top: 100px;}
 /* hacks */
 .icon{background-image:none !important;} /* remove bootstrap icons */
 
-
+::selection {background: #ffb7b7; /* Safari */}
+::-moz-selection {background: #ffb7b7; /* Firefox */}
 
 
 /* typography */
