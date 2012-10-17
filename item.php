@@ -14,7 +14,18 @@
 		</div>
 		
 		<div class="desc">
-			<h2>The pink circle company</h2>
+			<div class="row">
+				<div class="span9">
+					<h2>The pink circle company</h2>
+				</div>
+				
+				<div class="span3">  <!-- this is the right side showing links and such -->
+						<a href="#" class="external_link js_tooltip" title="Open in new tab" data-placement="bottom">
+							<i class="icon icon-right-dir"></i>
+							www.pinkcirclecompany.com
+						</a>
+				</div>
+			</div> <!-- row -->
 			
 			<hr>
 			
@@ -26,20 +37,16 @@
 					
 					<hr>
 					
-					<ul class="services">
-						<li>Brand Consultation</li>
-						<li>Logo Design</li>
-						<li>Web Consultation</li>
-						<li>Web Design</li>
+					<h4>Things I did for them</h4>
+					<ul class="services unstyled">
+						<li>&#43; Brand Consultation</li>
+						<li>&#43; Logo Design</li>
+						<li>&#43; Web Consultation</li>
+						<li>&#43; Web Design</li>
+						<li>&#43; Web Development</li>
 					</ul>
 					
 				</div> <!-- span4 -->
-				
-				<div class="span3 offset5">  <!-- this is the right side showing links and such -->
-					<ul class="links unstyled">
-						<li>+ www.pinkcirclecompany.com</li>
-					</ul>
-				</div>
 				
 			</div> <!-- row -->
 		</div>

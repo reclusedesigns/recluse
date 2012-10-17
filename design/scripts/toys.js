@@ -1,6 +1,6 @@
 jQuery(document).ready(function($) {
 	
-	
+	/* the image swap thing */
 	$(".bw").hover(
 		function() {
 		$(this).stop().animate({"opacity": "0"}, "fast");
@@ -9,29 +9,16 @@ jQuery(document).ready(function($) {
 		$(this).stop().animate({"opacity": "1"}, "fast");
 	});
 	
-	$('.carousel').carousel('pause');
-
-	
 	$('.js_tooltip').tooltip();
+	
 	
 	$('.scrollto_js').click(function(e) {
 		e.preventDefault();
 		$.scrollTo($($(e.currentTarget).attr('href')), 300);
 	});
-	
-	$('.js_contact_click').click(function() {
-		$('.js_contact_toggle').slideToggle(function() {
-    // Animation complete.
-		});
-	});
-	
-	$('#slider').nivoSlider({
-		pauseTime: 4000,
-		effect: 'fade',
-		directionNavHide: false,
-	});
+
 	
 	$().UItoTop({ easingType: 'easeOutQuart' });
 
 	
-}); 
+});

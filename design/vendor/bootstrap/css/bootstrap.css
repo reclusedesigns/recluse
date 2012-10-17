@@ -5001,7 +5001,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .tooltip.in {
-  opacity: 0.8;
+  opacity: 0.7;
   filter: alpha(opacity=80);
 }
 
@@ -5014,7 +5014,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .tooltip.bottom {
-  margin-top: 3px;
+  margin-top: 8px;
 }
 
 .tooltip.left {

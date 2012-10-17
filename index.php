@@ -25,8 +25,8 @@
 				</div>
 				<div class="span4">
 					<h2><span>The internet</span></h2>
-					<p>Don't freak out - it's actually not that scary. I've been doing this for a while now and I'd love to help make things clearer.</p>
-					<p>Have a look at some of<a href="#"> my work</a></p>
+					<p>Don't freak out - it's actually not that scary. I do this for a living and I'd love to help make things easier to understand.</p>
+					<p>Give me <a href="contact.php">a yell.</a>
 				</div>
 			</div>
 		</div>
@@ -53,7 +53,6 @@
 				<div class="recent_work">
 					<div class="span4">
 						<div class="fadehover">
-							<p style="z-index:200;">Lol</p>
 							<a href="#"><img src="design/images/body/circle_bw.jpg" class="bw"></a>
 							<a href="#"><img src="design/images/body/circle.jpg" class="c"></a>
 						</div>
@@ -66,6 +65,7 @@
 						</div>
 					</div>
 					
+				</div>
 				
 			</div> <!-- row -->
 		</div>

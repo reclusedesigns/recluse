@@ -22,7 +22,6 @@
 	<script src="design/vendor/scrollto.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/vendor/ultotop/js/easing.js" type="text/javascript"></script>
 	<script src="design/vendor/ultotop/js/jquery.ui.totop.js" type="text/javascript"></script>
-	<script src="design/vendor/nivo-slider/jquery.nivo.slider.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- typekit! -->
@@ -44,9 +43,9 @@
 -->
 			<ul class="nav pull-right">
 			<?php $full_name = $_SERVER['PHP_SELF']; $name_array = explode('/',$full_name); $count = count($name_array); $page_name = $name_array[$count-1];?>
-				<li class="<?php echo ($page_name=='work.php')?'active':'';?>"><a href="work.php"><i class="icon icon-feather"></i></a></li>
-				<li class="<?php echo ($page_name=='method.php')?'active':'';?>"><a href="method.php"><i class="icon icon-cog-2"></i> </a></li>
-				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2"></i> </a></li>
+				<li class="<?php echo ($page_name=='work.php')?'active':'';?>"><a href="work.php" class="js_tooltip" title="Work"><i class="icon icon-feather js_tooltip" title="Work" data-placement="bottom"></i></a></li>
+<!-- 				<li class="<?php echo ($page_name=='method.php')?'active':'';?>"><a href="method.php"><i class="icon icon-cog-2 js_tooltip" title="Method" data-placement="bottom"></i> </a></li> -->
+				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2 js_tooltip" title="Contact" data-placement="bottom"></i> </a></li>
 		  </ul>
 		</div>
 	</div>
