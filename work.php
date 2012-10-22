@@ -4,7 +4,7 @@
 	<div class="container">
 		
 		<div class="intro">
-			<h2><span>This a my house - entry, please.</span></h2>
+			<h2><span>A sample of work</span></h2>
 		</div>
 		
 		<hr>
@@ -19,7 +19,28 @@
 					</a>
 				</div>
 			</div>
-	
+		</div> <!-- row -->
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<div class="intro">
+			<h2><span>Other bits</span></h2>
+		</div>
+		
+		<hr>
+		
+<!-- 		Stick in random thumbnails of print and stuff -->
+		
 	</div>
+	
+	
+	
+	
 </section>
 <?php include 'footer.php'; ?>

@@ -1,5 +1,6 @@
 jQuery(document).ready(function($) {
 	
+	
 	/* the image swap thing */
 	$(".bw").hover(
 		function() {
@@ -9,7 +10,9 @@ jQuery(document).ready(function($) {
 		$(this).stop().animate({"opacity": "1"}, "fast");
 	});
 	
+	
 	$('.js_tooltip').tooltip();
+	$('.carousel').carousel();
 	
 	
 	$('.scrollto_js').click(function(e) {

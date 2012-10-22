@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, p{color:#999; font-weight:normal;}
 
 
 h2{font-weight:100; text-transform: uppercase; font-size:20px;}
-h2 span{background-color:rgba(0,0,0,0.7); color:#fff; padding:3px 5px;}
+h2 span{background-color:#444; color:#fff; padding:3px 5px;}
 
 h4{font-size:13px; text-transform: uppercase; }
 
@@ -39,11 +39,33 @@ hr{margin-top: 0;}
 /* header */
 /* ______________________________________________________________________*/
 .navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95); box-shadow: none !important; border-bottom:1px solid #ddd;}
-.navbar-inner .brand{background:url(../images/header/logo.png) no-repeat center center #f51a1a; display:block; text-indent: -9999px; width:47px; height:28px; top:50%; padding:35px 30px 35px 20px;}
-.navbar-inner .brand:hover{/* do magic here */}
+.navbar-inner .brand{background:url(../images/header/logo.png) no-repeat center center #222; opacity:0.9; display:block; text-indent: -9999px; width:47px; height:32px; top:50%; padding:35px 30px 35px 20px; margin-left: 0;}
+.navbar-inner .brand:hover{background-color:#f51a1a; padding-right:60px;}
 .navbar-inner .nav li a{padding:40px 40px; color:#bbb;}
 .navbar-inner .nav li a:hover{color:#f51a1a;}
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus{color:#f51a1a; background:none; border:none; box-shadow:none;} /* active class */
+
+
+
+/* hero */
+.hero{background:url(../images/hero/recluse_3d_web_blur.jpg) top center no-repeat; height: 600px;}
+.hero .intro{padding:80px 0 40px;}
+
+
+
+/* alternative */
+/* ______________________________________________________________________*/
+.alternative{background-color:#222; padding:40px 0 60px;}
+.alternative h2 span{background-color:#fff; color:#222;}
+.alternative p{color:#fff;}
+
+
+
+/* work / gallery */
+/* ______________________________________________________________________*/
+.work{padding-top:30px;}
+.work p{text-transform: none;}
+.gallery{padding-top:20px;}
 
 
 
@@ -63,7 +85,7 @@ hr{margin-top: 0;}
 .item .services li{padding:5px 0;}
 .item .services li i{padding-right:10px;}
 .item a.external_link{position: relative; top:20px;}
-
+.item .carousel-control{margin-top:0;}
 
 
 
