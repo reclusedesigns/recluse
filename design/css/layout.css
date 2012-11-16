@@ -55,10 +55,19 @@ hr{margin-top: 0;}
 
 /* alternative */
 /* ______________________________________________________________________*/
-.alternative{background-color:#222; padding:40px 0 60px;}
+.alternative{background-color:#222; padding:100px 0 100px; margin-bottom:60px;}
 .alternative h2 span{background-color:#fff; color:#222;}
 .alternative p{color:#fff;}
+.alternative img{padding-top:70px;}
 
+
+
+
+/* call to action */
+/* ______________________________________________________________________*/
+.call_to_action{margin-top:80px; border:1px solid #be1313; border-radius: 5px;}
+.call_to_action a{background-color:#383838; color:#fff; padding:40px; display: block; border-radius: 3px; text-align: center; font-size: 18px; text-shadow: 0 -1px 1px #666;}
+.call_to_action a:hover{background-color:#F51A1A}
 
 
 /* work / gallery */

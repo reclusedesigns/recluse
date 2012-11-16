@@ -10,15 +10,25 @@
 		<hr>
 		
 		<div class="row">
-			
-			<div class="span4">
-				<div class="fadehover">
-					<a href="item.php">
-						<img src="design/images/body/circle_bw.jpg" class="bw">
-						<img src="design/images/body/circle.jpg" class="c">
-					</a>
+				
+			<div class="gallery">
+				<div class="span4">
+					<div class="fadehover js_tooltip" title="Element Technology">
+						<a href="element.php"><img src="design/images/work/element/thumba.jpg" class="bw"></a>
+						<img src="design/images/work/element/thumbb.jpg" class="c">
+					</div>
 				</div>
+				
+				<div class="span4">
+					<div class="fadehover js_tooltip" title="Advanced Property Construction">
+						<a href="item.php"><img src="design/images/work/advanced/thumba.jpg" class="bw"></a>
+						<img src="design/images/work/advanced/thumbb.jpg" class="c">
+					</div>
+				</div>
+				
+				
 			</div>
+			
 		</div> <!-- row -->
 
 		
@@ -29,11 +39,13 @@
 		
 		
 		
+<!--
 		<div class="intro">
 			<h2><span>Other bits</span></h2>
 		</div>
 		
 		<hr>
+-->
 		
 <!-- 		Stick in random thumbnails of print and stuff -->
 		

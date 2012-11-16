@@ -59,6 +59,10 @@
 						<li>&#43; Web Development</li>
 					</ul>
 					
+					<hr>
+					
+					<a href="work.php"><i class="icon icon-th-large-1"></i> See more work</a>
+					
 				</div> <!-- span4 -->
 				
 			</div> <!-- row -->
