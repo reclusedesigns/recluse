@@ -28,7 +28,7 @@ h2 span{background-color:#444; color:#fff; padding:3px 5px;}
 h4{font-size:13px; text-transform: uppercase; }
 
 ul li,
-p{font-size:13px; line-height: 22px; color:#666;}
+p{font-size:14px; line-height: 22px; color:#666;}
 a{color:#f51a1a; transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out;}
 a:hover{color: transparent; text-shadow: 0 0 2px rgba(245,26,26,0.8); text-decoration: none;}
 

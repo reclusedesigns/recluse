@@ -4,7 +4,7 @@
 	<div class="container">
 		
 		<div class="intro">
-			<h2><span>Element Technology</span></h2>
+			<h2><span>Tectonic Building Group</span></h2>
 		</div>
 		
 		<div class="row">
@@ -12,9 +12,10 @@
 				<div id="myCarousel" class="carousel slide">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
-						<div class="active item"><img src="design/images/work/element/slide1.jpg" alt="hero" width="950" height="340"></div>
-						<div class="item"><img src="design/images/work/element/slide2.jpg" alt="hero" width="950" height="340"></div>
-						<div class="item"><img src="design/images/work/element/slide3.jpg" alt="hero" width="950" height="340"></div>
+						<div class="active item"><img src="design/images/work/tectonic/slide1.jpg" alt="hero" width="950" height="340"></div>
+						<div class="item"><img src="design/images/work/tectonic/slide4.jpg" alt="hero" width="950" height="340"></div>
+						<div class="item"><img src="design/images/work/tectonic/slide2.jpg" alt="hero" width="950" height="340"></div>
+						<div class="item"><img src="design/images/work/tectonic/slide3.jpg" alt="hero" width="950" height="340"></div>
 					</div>
 					
 				  <!--
@@ -28,13 +29,13 @@
 		<div class="desc">
 			<div class="row">
 				<div class="span9">
-					<h2>"This dude is so much more than just a designer"</h2>
+					<h2>Company rebrand</h2>
 				</div>
 				
 				<div class="span">  <!-- this is the right side showing links and such -->
-						<a href="http://www.elementtechnology.com.au" target="_blank" class="external_link js_tooltip">
+						<a href="http://www.tectonicbuildinggroup.com.au" target="_blank" class="external_link js_tooltip">
 							<i class="icon icon-right-dir"></i>
-							elementtechnology.com.au
+							tectonicbuildinggroup.com.au
 						</a>
 				</div>
 			</div> <!-- row -->
@@ -52,17 +53,6 @@
 					<h4>Things I did for them</h4>
 					<ul class="services unstyled">
 						<li>&#43; Case Design (awesome fun)</li>
-						<li>&#43; Brand Consultation</li>
-						<li>&#43; Logo Design</li>
-						<li>&#43; Web Consultation</li>
-						<li>&#43; Web Design</li>
-						<li>&#43; Web Development</li>
-					</ul>
-					
-					<hr>
-					
-					<h4>Things I did for them</h4>
-					<ul class="services unstyled">
 						<li>&#43; Brand Consultation</li>
 						<li>&#43; Logo Design</li>
 						<li>&#43; Web Consultation</li>

@@ -52,13 +52,23 @@
 					</div>
 					
 					<div class="span4">
-						<div class="fadehover js_tooltip" title="Advanced Property Construction">
-							<a href="item.php"><img src="design/images/work/advanced/thumba.jpg" class="bw"></a>
-							<img src="design/images/work/advanced/thumbb.jpg" class="c">
+						<div class="fadehover js_tooltip" title="Tectonic Building Group">
+							<a href="tectonic.php"><img src="design/images/work/tectonic/thumba.jpg" class="bw"></a>
+							<img src="design/images/work/tectonic/thumbb.jpg" class="c">
 						</div>
 					</div>
 					
-
+					
+					
+					<!-- ADVACNED
+<div class="span4">
+						<div class="fadehover js_tooltip" title="Advanced Property Construction">
+							<a href="advanced.php"><img src="design/images/work/advanced/thumba.jpg" class="bw"></a>
+							<img src="design/images/work/advanced/thumbb.jpg" class="c">
+						</div>
+					</div>
+-->
+					
 					
 				</div>
 				
