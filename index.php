@@ -52,9 +52,12 @@
 				<div class="span3 hidden-phone">&nbsp;</div>
 				<div class="span6">
 					<h2><span>Web Design?</span></h2>
-					<p>During the day, I work at an amazing company named <a href="http://squareweave.com.au" target="_blank">Squareweave</a> as their Design Lead.
+					<p>During the day, I work at an amazing company named <a href="http://squareweave.com.au" target="_blank">Squareweave</a> as their Design Lead.</p>
+					<p>I'm also a co-founder of <a href="#">Capsule.</a></p>
 					<p>In whatever spare time I can find, I draw <a href="#">japanese cartoons.</a></p>
-					<p>I'm also one of the founders of an app company named <a href="#">Capsule.</a>
+				</div>
+			</div>
+		</div>
 	</div>
 	
 
