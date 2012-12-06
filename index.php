@@ -21,7 +21,7 @@
 	
 	
 	<div class="contact_me">
-		<a class="contact_me" href="#">Contact me</a>
+		<a class="contact_me" href="mailto:andrew.chin@squareweave.com.au">Contact me</a>
 	</div>
 	<hr>
 	
