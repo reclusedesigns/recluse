@@ -1,4 +1,4 @@
-/* Andrew Chin eats rainbows for breakfast*/
+/* Andrew Chin punches rainbows for breakfast*/
 
 /* first some universal things */
 /* ______________________________________________________________________*/
@@ -6,7 +6,6 @@
 
 /* hacks */
 .icon{background-image:none !important;} /* remove bootstrap icons */
-
 
 
 
@@ -38,15 +37,6 @@ hr{margin-top: 0;}
 ::selection {background: #ffb7b7; /* Safari */}
 ::-moz-selection {background: #ffb7b7; /* Firefox */}
 
-/* header */
-/* ______________________________________________________________________*/
-/*
-.navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95); box-shadow: none !important; border-bottom:1px solid #ddd;}
-.navbar-inner .brand{background:url(../images/header/logo.png) no-repeat center center #222; opacity:0.9; display:block; text-indent: -9999px; width:35px; height:21px; padding:20px; margin-left: 0;}
-.navbar-inner .brand:hover{background-color:#f51a1a; padding-right:40px;}
-.navbar-inner .nav li a{padding:18px 0; color:#f51a1a;}
-.navbar-inner .nav li a:hover{color:#f51a1a; border-bottom:3px solid #f92e27;}
-*/
 
 
 
