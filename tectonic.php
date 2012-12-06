@@ -45,14 +45,14 @@
 			
 			<div class="row">
 				<div class="span4">
-					<p>This was one of those jobs that every designer wishes they got.</p>
-					<p>Not only was I entrusted with the brand and creation of their website, I was also in charge of designing the cases!</p>
+					<p>Tectonic needed to be seen.</p>
+					<p>I was given the rare chance of completely redesigning an entire brand and to increase the online visibility of an already existing company.</p>
+					<p>I enjoyed every bit of this experience!</p>
 					
 					<hr>
 					
 					<h4>Things I did for them</h4>
 					<ul class="services unstyled">
-						<li>&#43; Case Design (awesome fun)</li>
 						<li>&#43; Brand Consultation</li>
 						<li>&#43; Logo Design</li>
 						<li>&#43; Web Consultation</li>

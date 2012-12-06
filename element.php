@@ -61,17 +61,6 @@
 					
 					<hr>
 					
-					<h4>Things I did for them</h4>
-					<ul class="services unstyled">
-						<li>&#43; Brand Consultation</li>
-						<li>&#43; Logo Design</li>
-						<li>&#43; Web Consultation</li>
-						<li>&#43; Web Design</li>
-						<li>&#43; Web Development</li>
-					</ul>
-					
-					<hr>
-					
 					<a href="work.php"><i class="icon icon-th-large-1"></i> See more work</a>
 					
 				</div> <!-- span4 -->
