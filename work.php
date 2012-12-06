@@ -12,20 +12,31 @@
 		<div class="row">
 				
 			<div class="gallery">
-				<div class="span4">
-					<div class="fadehover js_tooltip" title="Element Technology">
-						<a href="element.php"><img src="design/images/work/element/thumba.jpg" class="bw"></a>
-						<img src="design/images/work/element/thumbb.jpg" class="c">
+				<div class="gallery">
+					<div class="span4">
+						<div class="fadehover">
+							<a href="element.php"><img src="design/images/work/element/thumba.jpg" class="bw"></a>
+							<img src="design/images/work/element/thumbb.jpg" class="c">
+						</div>
 					</div>
-				</div>
-				
-				
-				
-				<div class="span4">
-					<div class="fadehover js_tooltip" title="Tectonic Building Group">
-						<a href="tectonic.php"><img src="design/images/work/tectonic/thumba.jpg" class="bw"></a>
-						<img src="design/images/work/tectonic/thumbb.jpg" class="c">
+					
+					<div class="span4">
+						<div class="fadehover">
+							<a href="tectonic.php"><img src="design/images/work/tectonic/thumba.jpg" class="bw"></a>
+							<img src="design/images/work/tectonic/thumbb.jpg" class="c">
+						</div>
 					</div>
+					
+					
+					
+					<div class="span4">
+						<div class="fadehover">
+							<a href="advanced.php"><img src="design/images/work/advanced/thumba.jpg" class="bw"></a>
+							<img src="design/images/work/advanced/thumbb.jpg" class="c">
+						</div>
+					</div>
+					
+					
 				</div>
 				
 			</div>
