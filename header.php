@@ -48,22 +48,18 @@
 
 <body>
 
+<!--
 <div class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
 			<a class="brand" href="index.php">Recluse</a>
-		  <!--
-<ul class="nav">
-				<li><a href="hireme"><strong><i class="icon icon-info-circle-2"></i> Status:</strong> Available for work</a></li>
-			</ul>	
--->
+
 			<ul class="nav pull-right">
 			<?php $full_name = $_SERVER['PHP_SELF']; $name_array = explode('/',$full_name); $count = count($name_array); $page_name = $name_array[$count-1];?>
-				<li class="<?php echo ($page_name=='work.php')?'active':'';?>"><a href="work.php" class="js_tooltip" title="Work"><i class="icon icon-feather js_tooltip" title="Work" data-placement="bottom"></i></a></li>
-<!-- 				<li class="<?php echo ($page_name=='method.php')?'active':'';?>"><a href="method.php"><i class="icon icon-cog-2 js_tooltip" title="Method" data-placement="bottom"></i> </a></li> -->
-				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2 js_tooltip" title="Contact" data-placement="bottom"></i> </a></li>
+				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2"></i> Contact me</a></li>
 		  </ul>
 		</div>
 	</div>
-	</div>
+</div>
+-->
 

@@ -1,17 +1,12 @@
 /* Andrew Chin eats rainbows for breakfast*/
 
-
-/* bootstrap hacks */
-body{padding-top: 100px;}
-
 /* first some universal things */
 /* ______________________________________________________________________*/
+
 
 /* hacks */
 .icon{background-image:none !important;} /* remove bootstrap icons */
 
-::selection {background: #ffb7b7; /* Safari */}
-::-moz-selection {background: #ffb7b7; /* Firefox */}
 
 
 
@@ -21,53 +16,47 @@ body{padding-top: 100px;}
 h1, h2, h3, h4, h5, h6, p{color:#999; font-weight:normal;}
 
 
-
-h2{font-weight:100; text-transform: uppercase; font-size:20px;}
-h2 span{background-color:#444; color:#fff; padding:3px 5px;}
-
+h2{font-weight:100; text-transform: uppercase; font-size:24px; padding-bottom: 10px;}
+h2 span{background-color:#444; color:#fff; padding:3px 8px;}
 h4{font-size:13px; text-transform: uppercase; }
 
 ul li,
-p{font-size:14px; line-height: 22px; color:#666;}
-a{color:#f51a1a; transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out;}
+p{font-size:18px; line-height: 28px; color:#666;}
+a{color:#f51a1a; transition: all .15s ease-in-out; -moz-transition: all .15s ease-in-out; -webkit-transition: all .15s ease-in-out;}
 a:hover{color: transparent; text-shadow: 0 0 2px rgba(245,26,26,0.8); text-decoration: none;}
-
 
 hr{margin-top: 0;}
 
 
+/* OVERALL BITS */
+/* ______________________________________________________________________*/
+.home{text-align: center; border-top:5px solid #f51a1a;}
+
+.bit{padding:100px 0;}
+
+
+::selection {background: #ffb7b7; /* Safari */}
+::-moz-selection {background: #ffb7b7; /* Firefox */}
+
 /* header */
 /* ______________________________________________________________________*/
+/*
 .navbar-inner{background:none; margin-bottom:none; background-color:rgba(255,255,255,0.95); box-shadow: none !important; border-bottom:1px solid #ddd;}
-.navbar-inner .brand{background:url(../images/header/logo.png) no-repeat center center #222; opacity:0.9; display:block; text-indent: -9999px; width:47px; height:32px; top:50%; padding:35px 30px 35px 20px; margin-left: 0;}
-.navbar-inner .brand:hover{background-color:#f51a1a; padding-right:60px;}
-.navbar-inner .nav li a{padding:40px 40px; color:#bbb;}
-.navbar-inner .nav li a:hover{color:#f51a1a;}
-.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus{color:#f51a1a; background:none; border:none; box-shadow:none;} /* active class */
+.navbar-inner .brand{background:url(../images/header/logo.png) no-repeat center center #222; opacity:0.9; display:block; text-indent: -9999px; width:35px; height:21px; padding:20px; margin-left: 0;}
+.navbar-inner .brand:hover{background-color:#f51a1a; padding-right:40px;}
+.navbar-inner .nav li a{padding:18px 0; color:#f51a1a;}
+.navbar-inner .nav li a:hover{color:#f51a1a; border-bottom:3px solid #f92e27;}
+*/
 
 
 
 /* hero */
-.hero{background:url(../images/hero/recluse_3d_web_blur.jpg) top center no-repeat; height: 600px;}
-.hero .intro{padding:80px 0 40px;}
+.hero{background:#fff;}
 
+.contact_me{text-align: center;padding-bottom: 8px;}
+.contact_me a{padding:10px; color:#fff; background:#F51A1A;}
+.contact_me a:hover{opacity:0.7;}
 
-
-/* alternative */
-/* ______________________________________________________________________*/
-.alternative{background-color:#222; padding:100px 0 100px; margin-bottom:60px;}
-.alternative h2 span{background-color:#fff; color:#222;}
-.alternative p{color:#fff;}
-.alternative img{padding-top:70px;}
-
-
-
-
-/* call to action */
-/* ______________________________________________________________________*/
-.call_to_action{margin-top:80px; border:1px solid #be1313; border-radius: 5px;}
-.call_to_action a{background-color:#383838; color:#fff; padding:40px; display: block; border-radius: 3px; text-align: center; font-size: 18px; text-shadow: 0 -1px 1px #666;}
-.call_to_action a:hover{background-color:#F51A1A}
 
 
 /* work / gallery */
@@ -83,8 +72,6 @@ hr{margin-top: 0;}
 .fadehover{position: relative; height:140px;}
 .bw{position: absolute; left: 0; top: 0; z-index: 10;}
 .c{position: absolute; left: 0; top: 0;}
-
-
 
 
 
