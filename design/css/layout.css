@@ -8,15 +8,14 @@
 .icon{background-image:none !important;} /* remove bootstrap icons */
 
 
-
 /* typography */
 /* ______________________________________________________________________*/
 
 h1, h2, h3, h4, h5, h6, p{color:#999; font-weight:normal;}
 
 
-h2{font-weight:100; text-transform: uppercase; font-size:24px; padding-bottom: 10px;}
-h2 span{color:#666; font-size:30px;}
+h2{font-weight:100; text-transform: uppercase; font-size:30px;}
+h2 span{color:#666;}
 h4{font-size:13px; text-transform: uppercase; }
 
 ul li,
@@ -39,6 +38,10 @@ hr{margin-top: 0;}
 
 
 
+/* HEADER */
+/* ______________________________________________________________________*/
+header a{background:#F51A1A; color:#fff; padding:10px; border-radius: 5px; transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out;}
+header a:hover{}
 
 /* hero */
 .hero{background:#fff;}
@@ -46,7 +49,7 @@ hr{margin-top: 0;}
 
 /* call to action */
 .action{text-align: center;padding-bottom: 8px; margin-top:40px;}
-.action a{padding:10px; color:#fff; background:#F51A1A; border-radius: 3px; font-size:18px;}
+.action a{padding:10px; color:#fff; background:#F51A1A; border-radius: 3px; font-size:18px; text-shadow: 0px 2px 1px #c71414;}
 .action a:hover{opacity:0.7;}
 
 
@@ -77,19 +80,19 @@ hr{margin-top: 0;}
 
 
 
-/* social */
-/* ______________________________________________________________________*/
-.social{position: relative;}
-.social a{margin:0 10px; transition: all .15s ease-in-out; -moz-transition: all .15s ease-in-out; -webkit-transition: all .15s ease-in-out; opacity:0.8; position: relative;}
-.social a:hover{opacity:1; top:5px;}
-
-
 /* footer */
 /* ______________________________________________________________________*/
-footer{margin-top:40px; padding-bottom:80px; text-align: center;}
-footer a{padding:0 10px; color:#999;}
+footer{padding-top:40px; padding-bottom:80px; text-align: center;}
+footer a{color:#999;}
 
+/* info */
+.info{padding-bottom:20px;}
+.info p{color:#999; font-size:14px;}
 
+/* social */
+.social{position: relative;}
+.social a{margin:0 5px; transition: all .15s ease-in-out; -moz-transition: all .15s ease-in-out; -webkit-transition: all .15s ease-in-out; opacity:0.8; position: relative;}
+.social a:hover{opacity:1; top:5px;}
 
 
 
@@ -115,6 +118,37 @@ footer a{padding:0 10px; color:#999;}
 	-webkit-animation-duration: 0.5s;
 	-webkit-animation-delay: 1.4s;
 /* 	-webkit-animation-iteration-count: infinite; */
+}
+
+#apples {
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-delay: 1.6s;
+/* 	-webkit-animation-iteration-count: infinite; */
+}
+
+
+
+
+/* RESPONSIVE UP THE WAZOO */
+/* ------------------------------------------------------------------------------------------ */
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	.bit{padding-top:50px;}
 }
 
 
