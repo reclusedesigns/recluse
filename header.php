@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="design/css/home.css" type="text/css" media="screen" charset="utf-8">
 		<link rel="stylesheet" href="design/css/work.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/ultotop/css/ui.totop.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="design/vendor/animate/animate.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap-responsive.css" type="text/css" media="screen" />
 	
 	
