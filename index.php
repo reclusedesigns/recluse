@@ -64,7 +64,7 @@
 			
 		</div>
 		<div class="action">
-			<a href="work">See my work <i class="icon icon-right-open"></i></a>
+			<a href="work.php">See my work <i class="icon icon-right-open"></i></a>
 		</div>
 	</div>
 	
