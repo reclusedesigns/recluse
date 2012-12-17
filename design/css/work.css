@@ -1,7 +1,7 @@
 /* work / gallery */
 /* -------------------------------------------------------------------------------------------- */
 .work{}
-.work .item{border:solid 1px #eee;}
+.work .item{border:solid 1px #eee; margin-bottom:30px;}
 
 
 

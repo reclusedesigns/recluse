@@ -4,7 +4,7 @@
 	<div class="container">
 		
 		<div class="intro">
-			<h2><span>Tectonic Building Group</span></h2>
+			<h2><span>DiLusso Group</span></h2>
 		</div>
 		
 		<div class="row">
@@ -12,8 +12,10 @@
 				<div id="myCarousel" class="carousel slide">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
-						<div class="active item"><img src="design/images/work/tectonic/slide1.jpg" width="1170" height="500"></div>
-						<div class="item"><img src="design/images/work/tectonic/slide1.jpg" width="1170" height="500"></div>
+						<div class="active item"><img src="design/images/work/dilusso/slide1.jpg"></div>
+						<div class="item"><img src="design/images/work/dilusso/slide2.jpg"></div>
+						<div class="item"><img src="design/images/work/dilusso/slide3.jpg"></div>
+						<div class="item"><img src="design/images/work/dilusso/slide4.jpg"></div>
 					</div>
 					
 				</div>
@@ -23,12 +25,12 @@
 		<div class="desc">
 			<div class="row">
 				<div class="span9">
-					<h3>Full company rebrand</h3>
+					<h3>Brand &amp; Full catalogue design</h3>
 				</div>
 				
 				<div class="span3">  <!-- this is the right side showing links and such -->
 					<div class="action pull-right">
-						<a href="#">See site</a>
+						<a href="mailto:andrew@reclusedesigns.com.au">Contact me</a>
 					</div>
 				</div>
 			</div> <!-- row -->
@@ -39,9 +41,9 @@
 			<div class="row">
 				<div class="span4">
 					<div class="blurb">
-						<p class="lead">Tectonic needed to be seen.</p>
-						<p>I was given the rare chance of completely redesigning an entire brand and to increase the online visibility of an already existing company.</p>
-						<p>I enjoyed every bit of this experience!</p>
+						<p class="lead">I do enjoy the rare opportunity to do print design.</p>
+						<p>Working on the DiLusso's group's brand and brochure was definitely a highlight.</p>
+						<p>I got to design an entire catalogue for a high profile client and did it in under a week!</p>
 					</div>
 					
 					<hr>
@@ -50,9 +52,8 @@
 					<ul class="services unstyled">
 						<li>&#43; Brand Consultation</li>
 						<li>&#43; Logo Design</li>
-						<li>&#43; Web Consultation</li>
-						<li>&#43; Web Design</li>
-						<li>&#43; Web Development</li>
+						<li>&#43; Catalogue Design</li>
+						<li>&#43; Iconography</li>
 					</ul>
 					
 					<hr>

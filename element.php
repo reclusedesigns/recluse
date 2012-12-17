@@ -12,8 +12,10 @@
 				<div id="myCarousel" class="carousel slide">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
-						<div class="active item"><img src="design/images/work/element/slide1.jpg" width="1170" height="500"></div>
-						<div class="item"><img src="design/images/work/element/slide2.jpg" width="1170" height="500"></div>
+						<div class="active item"><img src="design/images/work/element/slide1.jpg"></div>
+						<div class="item"><img src="design/images/work/element/slide2.jpg"></div>
+						<div class="item"><img src="design/images/work/element/slide3.jpg"></div>
+						<div class="item"><img src="design/images/work/element/slide4.jpg"></div>
 					</div>
 					
 				</div>
@@ -28,7 +30,7 @@
 				
 				<div class="span3">  <!-- this is the right side showing links and such -->
 					<div class="action pull-right">
-						<a href="#">See site</a>
+						<a href="http://elementtechnology.com.au">See site</a>
 					</div>
 				</div>
 			</div> <!-- row -->

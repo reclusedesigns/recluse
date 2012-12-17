@@ -31,12 +31,24 @@
 		</div> <!-- row -->
 		
 		<div class="row">
-			
-			<div class="span4">
 				
+			<div class="span4">
+				<div class="item">
+					<a href="dilusso.php"><img src="design/images/work/dilusso/thumb.jpg"></a>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="item">
+					<a href="tectonic.php"><img src="design/images/work/tectonic/thumb.jpg"></a>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="item">
+					<a href="advanced.php"><img src="design/images/work/advanced/thumb.jpg"</a>
+				</div>
 			</div>
 			
-		</div>
+		</div> <!-- row -->
 
 		
 		
