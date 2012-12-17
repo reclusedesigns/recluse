@@ -12,8 +12,8 @@
 				<div id="myCarousel" class="carousel slide">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
-						<div class="active item"><img src="design/images/work/element/slide1.jpg" width="1170" height="500"></div>
-						<div class="item"><img src="design/images/work/element/slide2.jpg" width="1170" height="500"></div>
+						<div class="active item"><img src="design/images/work/tectonic/slide1.jpg" width="1170" height="500"></div>
+						<div class="item"><img src="design/images/work/tectonic/slide1.jpg" width="1170" height="500"></div>
 					</div>
 					
 				</div>
@@ -23,7 +23,7 @@
 		<div class="desc">
 			<div class="row">
 				<div class="span9">
-					<h3>"This guy is so much more than just a designer"</h3>
+					<h3>Full company rebrand</h3>
 				</div>
 				
 				<div class="span3">  <!-- this is the right side showing links and such -->
@@ -39,16 +39,15 @@
 			<div class="row">
 				<div class="span4">
 					<div class="blurb">
-						<p class="lead">This was one of those jobs that every designer wishes they got.</p>
-						<p>Not only was I entrusted with the brand and the creation of their website, I also had the rare opportunity  of designing the actual cases!</p>
-						<p>I'm never going to forget this opportunity. You should <a href="#">like these guys on Facebook</a> because they're going to be massive.</p>
+						<p class="lead">Tectonic needed to be seen.</p>
+						<p>I was given the rare chance of completely redesigning an entire brand and to increase the online visibility of an already existing company.</p>
+						<p>I enjoyed every bit of this experience!</p>
 					</div>
 					
 					<hr>
 					
 					<h3>Things I did for them</h3>
 					<ul class="services unstyled">
-						<li>&#43; Case Design (awesome fun)</li>
 						<li>&#43; Brand Consultation</li>
 						<li>&#43; Logo Design</li>
 						<li>&#43; Web Consultation</li>

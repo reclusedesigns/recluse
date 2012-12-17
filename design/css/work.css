@@ -1,3 +1,21 @@
+/* work / gallery */
+/* -------------------------------------------------------------------------------------------- */
+.work{}
+.work .item{border:solid 1px #eee;}
 
 
-.work .fadehover{padding-bottom:20px;}
+
+
+
+/* piece/ each work item page */
+/* ______________________________________________________________________*/
+.piece{text-align: left;}
+
+.piece .intro{text-align: center; padding-bottom:20px;}
+
+.piece .blurb{padding-bottom:30px;}
+.piece p.lead{font-size:18px;}
+.piece p{font-size:14px; line-height:22px;}
+.piece ul li{font-size:14px; padding:5px 10px;}
+
+.piece .action{margin:10px 0; padding:0;}

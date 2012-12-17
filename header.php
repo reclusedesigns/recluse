@@ -14,7 +14,6 @@
 	
 	<!-- muay styles -->
 	<link rel="stylesheet" href="design/css/layout.css" type="text/css" media="screen" charset="utf-8">
-	<link rel="stylesheet" href="design/css/home.css" type="text/css" media="screen" charset="utf-8">
 		<link rel="stylesheet" href="design/css/work.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/ultotop/css/ui.totop.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="design/vendor/animate/animate.css" type="text/css" media="screen" />
@@ -30,7 +29,7 @@
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- typekit! -->
-	<script type="text/javascript" src="//use.typekit.net/xfk3ysb.js"></script>
+	<script type="text/javascript" src="//use.typekit.net/dbl2kgj.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 	<!-- analytics -->
@@ -51,18 +50,4 @@
 
 <body>
 
-<!--
-<div class="navbar navbar-fixed-top">
-	<div class="navbar-inner">
-		<div class="container">
-			<a class="brand" href="index.php">Recluse</a>
-
-			<ul class="nav pull-right">
-			<?php $full_name = $_SERVER['PHP_SELF']; $name_array = explode('/',$full_name); $count = count($name_array); $page_name = $name_array[$count-1];?>
-				<li class="<?php echo ($page_name=='contact.php')?'active':'';?>"><a href="contact.php"><i class="icon icon-mail-2"></i> Contact me</a></li>
-		  </ul>
-		</div>
-	</div>
-</div>
--->
 

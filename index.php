@@ -3,14 +3,7 @@
 
 <section class="home">
 
-<!--
-	<header>
-		<div class="container">
-			<a href="#">Contact me</a>
-		</div>
-	</header>
-	
--->
+
 	<div class="hero bit">
 		<div class="container">
 			<div class="row">
@@ -28,7 +21,7 @@
 			</div>
 		</div> 
 		<div id="contact_me" class="action animated fadeInDown">
-			<a href="mailto:andrew.chin@squareweave.com.au">Contact me <i class="icon icon-right-open"></i></a>
+			<a href="mailto:andrew.chin@squareweave.com.au">Email me <i class="icon icon-right-open"></i></a>
 		</div>
 	</div>
 	
@@ -64,8 +57,8 @@
 				<div class="span6">
 					<h2><span>Experience?</span></h2>
 					<p>By day, I work at <a href="http://squareweave.com.au" target="_blank">Squareweave</a> as their Design Lead.</p>
-					<p>I'm also a co-founder of <a href="#">Capsule.</a></p>
-					<p>In whatever spare time I can find, I draw <a href="#">japanese cartoons.</a></p>
+					<p>I'm also a co-founder of <a href="#">Capsule</a> - a team dedicated to building apps that solve problems we care about.</p>
+					<p>In whatever spare time I can find, I like to draw <a href="#">Japanese cartoons.</a></p>
 				</div>
 			</div>
 			

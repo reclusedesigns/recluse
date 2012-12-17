@@ -1,76 +1,51 @@
 <?php include 'header.php'; ?>
 
-<section class="work">
+<section class="work bit">
 	<div class="container">
 		
 		<div class="intro">
-			<h2><span>A sample of work</span></h2>
+			<h2><span>My work</span></h2>
+			<p>I got lucky and found what I want to do for the rest of my life. <br>Here's some of it.</p>
 		</div>
 		
 		<hr>
 		
 		<div class="row">
 				
-			<div class="gallery">
-				<div class="gallery">
-					<div class="span4">
-						<div class="fadehover">
-							<a href="element.php"><img src="design/images/work/element/thumba.jpg" class="bw"></a>
-							<img src="design/images/work/element/thumbb.jpg" class="c">
-						</div>
-					</div>
-					
-					<div class="span4">
-						<div class="fadehover">
-							<a href="tectonic.php"><img src="design/images/work/tectonic/thumba.jpg" class="bw"></a>
-							<img src="design/images/work/tectonic/thumbb.jpg" class="c">
-						</div>
-					</div>
-					
-					
-					
-					<div class="span4">
-						<div class="fadehover">
-							<a href="advanced.php"><img src="design/images/work/advanced/thumba.jpg" class="bw"></a>
-							<img src="design/images/work/advanced/thumbb.jpg" class="c">
-						</div>
-					</div>
-					
-					
+			<div class="span4">
+				<div class="item">
+					<a href="element.php"><img src="design/images/work/element/thumb.jpg"></a>
 				</div>
+			</div>
+			<div class="span4">
+				<div class="item">
+					<a href="tectonic.php"><img src="design/images/work/tectonic/thumb.jpg"></a>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="item">
+					<a href="advanced.php"><img src="design/images/work/advanced/thumb.jpg"</a>
+				</div>
+			</div>
+			
+		</div> <!-- row -->
+		
+		<div class="row">
+			
+			<div class="span4">
 				
 			</div>
 			
-			
-			
-				<!-- ADVANCED
-<div class="span4">
-					<div class="fadehover js_tooltip" title="Advanced Property Construction">
-						<a href="item.php"><img src="design/images/work/advanced/thumba.jpg" class="bw"></a>
-						<img src="design/images/work/advanced/thumbb.jpg" class="c">
-					</div>
-				</div>
--->
-
-		</div> <!-- row -->
+		</div>
 
 		
 		
 		
 		
-		
-		
-		
-		
-<!--
-		<div class="intro">
-			<h2><span>Other bits</span></h2>
+		<div class="action">
+			<a href="index"><i class="icon icon-left-open"></i> Go back home</a>
 		</div>
 		
-		<hr>
--->
-		
-<!-- 		Stick in random thumbnails of print and stuff -->
 		
 	</div>
 	

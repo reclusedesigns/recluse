@@ -6,16 +6,17 @@
 
 /* hacks */
 .icon{background-image:none !important;} /* remove bootstrap icons */
-
-
+i{padding-top:2px;}
 /* typography */
 /* ______________________________________________________________________*/
 
-h1, h2, h3, h4, h5, h6, p{color:#999; font-weight:normal;}
+h1, h2, h3, h4, h5, h6{font-family: "proxima-nova",sans-serif; color:#999; font-weight:100}
 
+p, a, ul li{font-family: "open-sans",sans-serif;}
 
-h2{font-weight:100; text-transform: uppercase; font-size:30px;}
+h2{font-weight:200; text-transform: uppercase; font-size:30px;}
 h2 span{color:#666;}
+h3{font-size:18px; text-transform: uppercase; letter-spacing: 2px;}
 h4{font-size:13px; text-transform: uppercase; }
 
 ul li,
@@ -28,8 +29,7 @@ hr{margin-top: 0;}
 
 /* OVERALL BITS */
 /* ______________________________________________________________________*/
-.home{text-align: center; border-top:5px solid #f51a1a;}
-
+section{text-align: center; border-top:5px solid #f51a1a;}
 .bit{padding:100px 0 100px;}
 
 
@@ -48,35 +48,10 @@ header a:hover{}
 
 
 /* call to action */
-.action{text-align: center;padding-bottom: 8px; margin-top:40px;}
-.action a{padding:10px; color:#fff; background:#F51A1A; border-radius: 3px; font-size:18px; text-shadow: 0px 2px 1px #c71414;}
+.action{text-align: center;padding-bottom: 40px; margin-top:40px;}
+.action a{padding:10px 15px; color:#fff; background:#F51A1A; border-radius: 3px; font-size:18px; text-shadow: 0px 2px 1px #c71414; box-shadow: inset 0px 2px 2px #c71414;}
 .action a:hover{opacity:0.7;}
 
-
-
-/* work / gallery */
-/* ______________________________________________________________________*/
-.work{}
-.work p{text-transform: none;}
-.gallery{padding-top:20px;}
-
-
-
-/* javascript image fade effect */
-/* ______________________________________________________________________*/
-.fadehover{position: relative; height:140px;}
-.bw{position: absolute; left: 0; top: 0; z-index: 10;}
-.c{position: absolute; left: 0; top: 0;}
-
-
-
-/* item page */
-/* ______________________________________________________________________*/
-.item .services{padding-left:20px;}
-.item .services li{padding:5px 0;}
-.item .services li i{padding-right:10px;}
-.item a.external_link{position: relative; top:20px;}
-.item .carousel-control{margin-top:0;}
 
 
 
