@@ -13,8 +13,8 @@
 						<a href="mailto:andrew.chin@squareweave.com.au"><img id="balls" class="animated fadeInDown" src="design/images/hero/balls.png" alt="andrew chin andrewchin" width="156" height="156" /></a>
 						<div id="intro_body" class="animated fadeInDown">
 							<h2><span>Word up, girl</span></h2>
-							<p>I design and build <a href="work">premium websites</a> for small businesses.</p>
-							<p>Based in Melbourne, my focuses lie in UI and UX design while pursuing my love for <a href="work">branding</a> and <a href="work">illustration</a>.</p>
+							<p>I design and build <a href="work.php">premium websites</a> for small businesses.</p>
+							<p>Based in Melbourne, my focuses lie in UI and UX design while pursuing my love for <a href="work.php">branding</a> and <a href="work.php">illustration</a>.</p>
 						</div>
 					</div>
 				</div>
