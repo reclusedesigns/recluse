@@ -12,8 +12,8 @@
 				<div id="myCarousel" class="carousel slide">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
-						<div class="active item"><img src="design/images/work/tectonic/slide1.jpg" width="1170" height="500"></div>
-						<div class="item"><img src="design/images/work/tectonic/slide1.jpg" width="1170" height="500"></div>
+						<div class="active item"><img src="design/images/work/tectonic/slide1.jpg" ></div>
+						<div class="item"><img src="design/images/work/tectonic/slide1.jpg"></div>
 					</div>
 					
 				</div>

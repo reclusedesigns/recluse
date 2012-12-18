@@ -4,7 +4,7 @@
 	<div class="container">
 		
 		<div class="intro">
-			<h2><span>Tectonic Building Group</span></h2>
+			<h2><span>Element Technology</span></h2>
 		</div>
 		
 		<div class="row">

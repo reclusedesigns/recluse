@@ -10,7 +10,7 @@
 				<div class="span3 hidden-phone">&nbsp;</div>
 				<div class="span6">
 					<div class="intro">
-						<img id="balls" class="animated fadeInDown" src="design/images/hero/balls.png" alt="andrew chin andrewchin" width="156" height="156" />
+						<a href="mailto:andrew.chin@squareweave.com.au"><img id="balls" class="animated fadeInDown" src="design/images/hero/balls.png" alt="andrew chin andrewchin" width="156" height="156" /></a>
 						<div id="intro_body" class="animated fadeInDown">
 							<h2><span>Word up, girl</span></h2>
 							<p>I design and build <a href="work">premium websites</a> for small businesses.</p>
@@ -57,8 +57,8 @@
 				<div class="span6">
 					<h2><span>Experience?</span></h2>
 					<p>By day, I work at <a href="http://squareweave.com.au" target="_blank">Squareweave</a> as their Design Lead.</p>
-					<p>I'm also a co-founder of <a href="#">Capsule</a> - a team dedicated to building apps that solve problems we care about.</p>
-					<p>In whatever spare time I can find, I like to draw <a href="#">Japanese cartoons.</a></p>
+					<p>I'm also a co-founder of Capsule - a team dedicated to building apps that solve problems we care about.</p>
+					<p>In whatever spare time I can find, I like to draw Japanese cartoons.</p>
 				</div>
 			</div>
 			

@@ -9,7 +9,11 @@ jQuery(document).ready(function($) {
 		e.preventDefault();
 		$.scrollTo($($(e.currentTarget).attr('href')), 300);
 	});
-
+	
+	$('#work .item').hover(
+		function(){$('span',this).slideToggle('fast');},
+		function(){$('span',this).slideToggle('fast');
+	});
 	
 	$().UItoTop({ easingType: 'easeOutQuart' });
 

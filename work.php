@@ -10,42 +10,73 @@
 		
 		<hr>
 		
-		<div class="row">
-				
+		<div class="row" id="work">
 			<div class="span4">
 				<div class="item">
-					<a href="element.php"><img src="design/images/work/element/thumb.jpg"></a>
-				</div>
+					<a href="element.php">
+						<img src="design/images/work/element/thumb.jpg">
+						<span>
+							Element Technology
+						</span>
+					</a>
+				</div> 
 			</div>
+			
 			<div class="span4">
 				<div class="item">
-					<a href="tectonic.php"><img src="design/images/work/tectonic/thumb.jpg"></a>
-				</div>
+					<a href="oursay.php">
+						<img src="design/images/work/oursay/thumb.jpg">
+						<span>
+							OurSay
+						</span>
+					</a>
+				</div> 
 			</div>
+			
 			<div class="span4">
 				<div class="item">
-					<a href="advanced.php"><img src="design/images/work/advanced/thumb.jpg"</a>
-				</div>
+					<a href="advanced.php">
+						<img src="design/images/work/advanced/thumb.jpg">
+						<span>
+							Advanced Property Construction
+						</span>
+					</a>
+				</div> 
 			</div>
 			
 		</div> <!-- row -->
 		
-		<div class="row">
+		<div class="row" id="work">
 				
 			<div class="span4">
 				<div class="item">
-					<a href="dilusso.php"><img src="design/images/work/dilusso/thumb.jpg"></a>
-				</div>
+					<a href="dilusso.php">
+						<img src="design/images/work/dilusso/thumb.jpg">
+						<span>
+							DiLusso Group
+						</span>
+					</a>
+				</div> 
 			</div>
 			<div class="span4">
 				<div class="item">
-					<a href="tectonic.php"><img src="design/images/work/tectonic/thumb.jpg"></a>
-				</div>
+					<a href="pin.php">
+						<img src="design/images/work/pin/thumb.jpg">
+						<span>
+							pin.jobs
+						</span>
+					</a>
+				</div> 
 			</div>
 			<div class="span4">
 				<div class="item">
-					<a href="advanced.php"><img src="design/images/work/advanced/thumb.jpg"</a>
-				</div>
+					<a href="tectonic.php">
+						<img src="design/images/work/tectonic/thumb.jpg">
+						<span>
+							Tectonic Building Group
+						</span>
+					</a>
+				</div> 
 			</div>
 			
 		</div> <!-- row -->
@@ -55,7 +86,7 @@
 		
 		
 		<div class="action">
-			<a href="index"><i class="icon icon-left-open"></i> Go back home</a>
+			<a href="index.php"><i class="icon icon-left-open"></i> Go back home</a>
 		</div>
 		
 		
