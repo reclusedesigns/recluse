@@ -46,6 +46,33 @@
 	</script>
 	
 	
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+			
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				</a>
+			
+				<a class="brand" href="index.php"><img src="design/images/header/logo.png" alt="logo" width="40" height="44"></a>
+				
+				<!-- Everything you want hidden at 940px or less, place within here -->
+				<div class="nav-collapse collapse">
+					<ul class="nav pull-right">
+					<!-- <li><a href="#">About</a> -->
+					<li><a href="work.php">Portfolio</a>
+					<li><a href="contact.php">Contact</a>
+				</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	
+	
+	
 </head>
 
 <body>

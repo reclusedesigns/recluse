@@ -1,14 +1,26 @@
 <?php include 'header.php'; ?>
 
-<section class="work bit">
+<section class="work">
+	
+	<div class="hero">
+		<div class="container">
+			<div class="row">
+				<div class="span2 hidden-phone">&nbsp;</div>
+				<div class="span8">
+					<div class="intro">
+						<div id="one" class="animated fadeInDown">
+							<!-- <h2><span>Word up, girl</span></h2> -->
+							<p class="lead">I got lucky and found what I want to do for the rest of my life. 
+<br>Here's some of it.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> 
+	</div>
+	
 	<div class="container">
 		
-		<div class="intro">
-			<h2><span>My work</span></h2>
-			<p>I got lucky and found what I want to do for the rest of my life. <br>Here's some of it.</p>
-		</div>
-		
-		<hr>
 		
 		<div class="row" id="work">
 			<div class="span4">
