@@ -98,7 +98,7 @@
 		
 		
 		<div class="action">
-			<a href="index.php"><i class="icon icon-left-open"></i> Go back home</a>
+			<a href="mailto:andrew@squareweave.com.au">Hire me <i class="icon icon-right-open"></i></a>
 		</div>
 		
 		

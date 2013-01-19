@@ -75,7 +75,7 @@ section{text-align: center;}
 
 /* call to action */
 .action{text-align: center;padding-bottom: 40px; margin-top:40px;}
-.action a{padding:10px 15px; color:#fff; background:#d98569; border-radius: 3px; font-size:18px; text-shadow: 0px 2px 1px #c71414; box-shadow: inset 0px 2px 2px #c71414;}
+.action a{padding:10px 15px; color:#fff; background:#d98569; border-radius: 3px; font-size:18px; text-shadow: 0px 2px 1px #c71414;}
 .action a:hover{opacity:0.7;}
 
 
