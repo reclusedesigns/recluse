@@ -145,12 +145,19 @@ footer{padding-top:40px; padding-bottom:80px; text-align: center; background:#1d
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
-
+	html,
+	body{padding:0 !important}
+	body .navbar-fixed-top{margin:0;}
+	body .navbar .navbar-inner{padding:20px;}
 }
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
-
+	html,
+	body{padding:0 !important}
+	body .navbar-fixed-top{margin:0;}
+	body .navbar .navbar-inner{padding:20px;}
+	body .bit{padding:40px;}
 }
 
 /* Landscape phones and down */

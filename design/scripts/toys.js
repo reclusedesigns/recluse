@@ -11,7 +11,6 @@ jQuery(document).ready(function($) {
 	});
 	
 	$('#work .item').hover(
-		function(){$('span',this).slideToggle('fast');},
 		function(){$('span',this).slideToggle('fast');
 	});
 	
