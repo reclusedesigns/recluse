@@ -43,7 +43,7 @@
 					<div class="blurb">
 						<p class="lead">This was one of those jobs that every designer wishes they got.</p>
 						<p>Not only was I entrusted with the brand and the creation of their website, I also had the rare opportunity  of designing the actual cases!</p>
-						<p>I'm never going to forget this opportunity. You should <a href="#">like these guys on Facebook</a> because they're going to be massive.</p>
+						<p>I'm never going to forget this opportunity. You should <a href="https://www.facebook.com/ElementTechnology">like these guys on Facebook</a> because they're going to be massive.</p>
 					</div>
 					
 					<hr>

@@ -16,8 +16,7 @@
 .piece .intro{text-align: center; padding-bottom:20px;}
 
 .piece .blurb{padding-bottom:30px;}
-.piece p.lead{font-size:18px;}
-.piece p{font-size:14px; line-height:22px;}
+.piece p.lead{font-size:20px; line-height: 24px;}
 .piece ul li{font-size:14px; padding:5px 10px;}
 
 .piece .action{margin:10px 0; padding:0;}
