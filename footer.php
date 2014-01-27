@@ -7,7 +7,7 @@
 			<p>
 				0403 321 199 &middot; 
 				<a href="mailto:andrew.chin@squareweave.com.au">andrew@reclusedesigns.com.au</a> &middot;
-				<a href="#">my resume</a>
+				<a href="resume.pdf">my resume</a>
 			</p>
 			
 		</div>

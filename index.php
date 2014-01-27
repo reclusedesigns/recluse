@@ -32,7 +32,7 @@
 			<div class="row">
 			<div class="span3 hidden-phone">&nbsp;</div>
 				<div class="span6">
-					<img id="three" class="animated fadeInDown" src="design/images/hero/balls.png" alt="Andrew Chin" />
+					<img id="three" class="animated fadeInDown chinballs" src="design/images/hero/balls.png" alt="Andrew Chin" />
 					<h2 id="four" class="animated fadeInDown"><span>Word up girl</span></h2>
 					<p id="five" class="lead animated fadeInDown">Don't freak out - the internet isn't actually that scary. I do this for a living and would love to help <a href="mailto:andrew.chin@squareweave.com.au">make things clearer.</a></p>
 					<p id="five" class="lead animated fadeInDown">Based in Melbourne, my focuses lie in UI and UX design while pursuing my love for <a href="work.php">branding</a> and <a href="work.php">illustration</a>.</p>
